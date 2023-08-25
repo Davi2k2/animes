@@ -1,4 +1,3 @@
-# animes
 
 <h1 align="center">:file_cabinet: Lista para adicionar animes </h1>
 
